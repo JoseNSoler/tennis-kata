@@ -1,4 +1,15 @@
-## Kata de refactorización de tenis
+## Kata de refactorización de tenis - solucion
+
+<p align="center">
+<img src="https://www.sofka.com.co/wp-content/uploads/2021/02/sofkau-logo-horizontal.png">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</p>
+
+**Solucion implementada en TennisGame1, en base a la logica manejada por los tres archivos originales, se consiguio una respuesta razonable y refactorizada**
+
+
 Imagine que trabaja para una empresa de consultoría, y uno de sus colegas ha estado trabajando para la Sociedad de Tenis. El contrato es por 10 horas de trabajo facturable, y su colega ha pasado 8.5 horas trabajando en él. Lamentablemente, ahora ha caído enfermo. Él dice que ha completado el trabajo, y todas las pruebas pasan. Tu jefe te ha pedido que te hagas cargo de él. Quiere que pases una hora más o menos en el código para poder facturar al cliente las 10 horas completas. Ella le indica que arregle un poco el código y tal vez tome algunas notas para que pueda darle a su colega algunos comentarios sobre el diseño elegido. También debe prepararse para hablar con su jefe sobre el valor de este trabajo de refactorización, más allá de las horas adicionales facturables.
 
 
